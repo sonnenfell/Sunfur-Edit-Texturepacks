@@ -1,3 +1,5 @@
+# Sunfur Edit Resourcepack
+
 A vanilla-like texturepack featuring dark-mode, custom sky, 3D details for blocks and some small texture tweaks to make the game look more dynamic.
 
 To download the texturepack, go to the latest release or the [Sunfur Edit Modrinth page](https://modrinth.com/resourcepack/rHOdBfrf). The texturepack variants are also available here in the release release section or on the respective [variant's Modrinth pages.](https://modrinth.com/collection/YYDST57h)
