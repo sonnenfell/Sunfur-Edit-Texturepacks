@@ -26,8 +26,6 @@ This texturepack is also available in other variants. The hyperlinks in the foll
 
 The low and shader friendly version are also available in this repository. The full version has to be downloaded via Modrinth.
 
-![pack](https://github.com/sonnenfell/Sunfur-Edit-Texturepacks/assets/141140296/75ab4149-5835-49d3-9a06-9277100b366b)
-
 ## Dependencies:
 
 This version is tested and works for minecraft version 1.20.1, but since minecraft is nice to texturepacks you can expect it to be compatible with a some older versions.
@@ -58,10 +56,20 @@ To deactivate a texturepack, simply go back to the selection menu and select the
   4. This will automatically open the current instance's resourcepack-folder in explorer.
   Now just continue on with the other steps.
 
-# Changelog: Sunfur Edit 1.1 + Variants
+
+## Reporting bugs & issues with the resourcepack
+If you run into visual bugs in any variant of this texturepack, please don't hesitate to open a [new issue](https://github.com/sonnenfell/Sunfur-Edit-Texturepacks/issues) (preferably including minecraft version, screenshot of the bug / faulty texture, which variant you are using and if you are using optifine or mods with similar texturepack-related features). Alternatively, you can also contact me on [this discord server](https://discord.gg/jWMbvyXtTE).
+
+
+
+![pack](https://github.com/sonnenfell/Sunfur-Edit-Texturepacks/assets/141140296/75ab4149-5835-49d3-9a06-9277100b366b)
+
+
+
+## Changelog: Sunfur Edit 1.1 + Variants
 After some quite intensive testing, I believe I have removed all issues there were with the previous version (like glitched models, compatability issues with glass culling texturepacks etc.). There _shouldn't_ be any problems now, but if you do find one please contact me so I can fix it. Now, let's take a look at the changes:
 
-## "Sunfur Edit" Patchnotes:
+### "Sunfur Edit" Patchnotes:
 - There's a shader friendly version now! Use it if the sky looks weird when using a shader and the texturepack at the same time (or if you just want the full version but no custom sky stuff)
 - Removed the 3d Potion models & fixed potion texture
 - Added compatibility with glass culling texturepacks
@@ -72,7 +80,6 @@ After some quite intensive testing, I believe I have removed all issues there we
 - drastically decreased file size of the "low" version (it's less than 0.5mb now!)
 
 At the same time as this release, I also overhauled this packs Modrinth page: The main page will be exclusively used for releases of the full version of "Sunfur Edit". The other variants, "Sunfur Edit - low" (lite version optimised for performance and file size) and "Sunfur Edit - shader friendly" (full version without custom sky elements, can be used with shaders without affecting their custom sky), each have a seperate Modrinth page now which will be used exlusively for releases of the respective variant. You can find active links to all "Sunfur Edit" variants [here](https://modrinth.com/collection/YYDST57h).
-
 
 _P.S.: As you might have noticed, I often use the term "texturepack" instead of "resourcepack". I do acknowledge and agree that "resourcepack" is, objectively, the better term since these packs can not only contain textures, but also models, shaders and sounds. The reason I'm using "texturepack" although I know it's the inferior term is simply because it was the most commonly used expression in my surroundings back when I first came in contact with it, so I grew quite fond of it. That's it. Enjoy the pack!
 
